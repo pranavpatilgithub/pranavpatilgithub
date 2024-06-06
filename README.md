@@ -1,9 +1,10 @@
 
-#### Hi, my name is Pranav Patil
+### Hi, my name is Pranav Patil
+***
 
 * I am a detail-oriented undergraduate pursuing a Btech degree in Computer Science Engineering with a strong passion for web development. Proficient in HTML, CSS, and JavaScript and experienced with modern frameworks such as React and Node.js.
 
-* __Skills__ 
+__Skills__ 
 
 <p>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" margin-right="4px"/>
@@ -24,6 +25,8 @@
 
 </p>
 
-
+__Profiles__
+* [LinkedIn](https://www.linkedin.com/in/thepranavpatil/)
+* [Leetcode](https://leetcode.com/u/brickOfLogic/)
 
 
