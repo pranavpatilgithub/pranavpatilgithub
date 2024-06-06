@@ -31,7 +31,7 @@ __Skills__
 
 </p>
 
-<img src="https://github.com/pranavpatilgithub/pranavpatilgithub/blob/main/user%20img/coding%20profile.png" alt="profile" align="right" width="150" height="150">
+<img src="https://github.com/pranavpatilgithub/pranavpatilgithub/blob/main/user%20img/coding%20profile.png" alt="profile" align="right" width="150" height="150" border="1 solid blue">
 
 __Profiles__
 * [LinkedIn](https://www.linkedin.com/in/thepranavpatil/) 
