@@ -1,6 +1,6 @@
 
 ### Hi, my name is Pranav Patil
-<img src="/Downloads/coding profile.png" alt="profile" width="40">
+<img src="pranavpatilgithub/user img/coding profile.png" alt="profile" width="40">
 ***
 
 * I am a detail-oriented undergraduate pursuing a Btech degree in Computer Science Engineering with a strong passion for web development. Proficient in HTML, CSS, and JavaScript and experienced with modern frameworks such as React and Node.js.
