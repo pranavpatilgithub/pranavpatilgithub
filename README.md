@@ -35,15 +35,13 @@ __Skills__
 
 __Profiles__
 <div aligh="left">
-* [LinkedIn](https://www.linkedin.com/in/thepranavpatil/)
-* [Leetcode](https://leetcode.com/u/brickOfLogic/)
-* [Hackerrank](https://www.hackerrank.com/profile/pranavcode010)
-* [Frontend Mentor](https://www.frontendmentor.io/profile/pranavpatilgithub)
+* [LinkedIn](https://www.linkedin.com/in/thepranavpatil/) </br>
+* [Leetcode](https://leetcode.com/u/brickOfLogic/) </br>
+* [Hackerrank](https://www.hackerrank.com/profile/pranavcode010) </br>
+* [Frontend Mentor](https://www.frontendmentor.io/profile/pranavpatilgithub) </br>
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpatilgithub&" alt="pranavpatilgithub" /></p>
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
