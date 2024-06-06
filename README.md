@@ -3,6 +3,7 @@
 ***
 
 * I am a detail-oriented undergraduate pursuing a Btech degree in Computer Science Engineering with a strong passion for web development. Proficient in HTML, CSS, and JavaScript and experienced with modern frameworks such as React and Node.js.
+  
 __Skills__ 
 
 <p>  
