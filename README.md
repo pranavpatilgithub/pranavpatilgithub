@@ -1,6 +1,5 @@
 
 ### Hi, my name is Pranav Patil
-<img src="https://github.com/pranavpatilgithub/pranavpatilgithub/blob/main/user%20img/coding%20profile.png" alt="profile" align="right" width="40">
 ***
 
 * I am a detail-oriented undergraduate pursuing a Btech degree in Computer Science Engineering with a strong passion for web development. Proficient in HTML, CSS, and JavaScript and experienced with modern frameworks such as React and Node.js.
@@ -32,13 +31,19 @@ __Skills__
 
 </p>
 
+<img src="https://github.com/pranavpatilgithub/pranavpatilgithub/blob/main/user%20img/coding%20profile.png" alt="profile" align="right" width="150" height="150">
+
 __Profiles__
+<div aligh="left">
 * [LinkedIn](https://www.linkedin.com/in/thepranavpatil/)
 * [Leetcode](https://leetcode.com/u/brickOfLogic/)
 * [Hackerrank](https://www.hackerrank.com/profile/pranavcode010)
 * [Frontend Mentor](https://www.frontendmentor.io/profile/pranavpatilgithub)
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpatilgithub&" alt="pranavpatilgithub" /></p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
 
