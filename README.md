@@ -3,7 +3,7 @@
 ***
 
 * I am a detail-oriented undergraduate pursuing a Btech degree in Computer Science Engineering with a strong passion for web development. Proficient in HTML, CSS, and JavaScript and experienced with modern frameworks such as React and Node.js.
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavpatilgithub" alt="pranavpatilgithub" /></a> </p>
 __Skills__ 
 
 <p>  
@@ -38,7 +38,6 @@ __Profiles__
 * [Frontend Mentor](https://www.frontendmentor.io/profile/pranavpatilgithub)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpatilgithub&" alt="pranavpatilgithub" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavpatilgithub&show_icons=true&locale=en" alt="pranavpatilgithub" /></p>
 
 
 
