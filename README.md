@@ -34,12 +34,12 @@ __Skills__
 <img src="https://github.com/pranavpatilgithub/pranavpatilgithub/blob/main/user%20img/coding%20profile.png" alt="profile" align="right" width="150" height="150">
 
 __Profiles__
-<div aligh="left">
-* [LinkedIn](https://www.linkedin.com/in/thepranavpatil/) </br>
-* [Leetcode](https://leetcode.com/u/brickOfLogic/) </br>
-* [Hackerrank](https://www.hackerrank.com/profile/pranavcode010) </br>
-* [Frontend Mentor](https://www.frontendmentor.io/profile/pranavpatilgithub) </br>
-</div>
+* [LinkedIn](https://www.linkedin.com/in/thepranavpatil/) 
+* [Leetcode](https://leetcode.com/u/brickOfLogic/) 
+* [Hackerrank](https://www.hackerrank.com/profile/pranavcode010) 
+* [Frontend Mentor](https://www.frontendmentor.io/profile/pranavpatilgithub)
+
+</br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpatilgithub&" alt="pranavpatilgithub" /></p>
 
