@@ -34,10 +34,10 @@ __Skills__
 <img src="https://github.com/pranavpatilgithub/pranavpatilgithub/blob/main/user%20img/coding%20profile.png" alt="profile" align="right" width="150" height="150" border="1 solid blue">
 
 __Social Profiles__
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepranavpatil/)
-* [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/brickOfLogic/)
-* [![HackerRank](https://img.shields.io/badge/hackerRank-%2320232a.svg?style=normal&logo=HackerRank&logoColor=%FFA116)](https://www.hackerrank.com/profile/pranavcode010)
-* [![FrontendMentor](https://img.shields.io/badge/frontendMentor-%2320232a.svg?style=normal&logo=FrontendMentor&logoColor=%FFA116)](https://www.frontendmentor.io/profile/pranavpatilgithub)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepranavpatil/)
+<br> [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/brickOfLogic/)
+<br> [![HackerRank](https://img.shields.io/badge/hackerRank-%2320232a.svg?style=normal&logo=HackerRank&logoColor=%FFA116)](https://www.hackerrank.com/profile/pranavcode010)
+<br> [![FrontendMentor](https://img.shields.io/badge/frontendMentor-%2320232a.svg?style=normal&logo=FrontendMentor&logoColor=%FFA116)](https://www.frontendmentor.io/profile/pranavpatilgithub)
 
 
 </br>
