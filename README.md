@@ -37,9 +37,9 @@ __Social Profiles__
 <br>
 <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepranavpatil/)
 <br> [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/brickOfLogic/)
-<br> [![HackerRank](https://img.shields.io/badge/hackerRank-%2320232a.svg?style=normal&logo=HackerRank&logoColor=%FFA116)](https://www.hackerrank.com/profile/pranavcode010)
-<br> [![FrontendMentor](https://img.shields.io/badge/codeChef-%2320232a.svg?style=normal&logo=codeChef&logoColor=#973131)](https://www.codechef.com/users/brickoflogic)
-<br> [![FrontendMentor](https://img.shields.io/badge/frontendMentor-%2320232a.svg?style=normal&logo=FrontendMentor&logoColor=%FFA116)](https://www.frontendmentor.io/profile/pranavpatilgithub)
+<br> [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pranavcode010)
+<br> [![FrontendMentor](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/brickoflogic)
+<br> [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-%FFFFFF.svg?style=normal&logo=FrontendMentor&logoColor=%black)](https://www.frontendmentor.io/profile/pranavpatilgithub)
 
 
 </br>
