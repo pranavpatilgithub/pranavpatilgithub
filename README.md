@@ -39,7 +39,6 @@ __Social Profiles__
 <br> [![LeetCode](https://img.shields.io/badge/LeetCode-%2320232a.svg?style=normal&logo=LeetCode&logoColor=%FFA116)](https://leetcode.com/u/brickOfLogic/)
 <br> [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=normal&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/pranavcode010)
 <br> [![FrontendMentor](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=normal&logo=Codechef&logoColor=white)](https://www.codechef.com/users/brickoflogic)
-<br> [![FrontendMentor](https://img.shields.io/badge/FrontendMentor-%fff.svg?style=normal&logo=FrontendMentor&logoColor=%000)](https://www.frontendmentor.io/profile/pranavpatilgithub)
 
 
 </br>
