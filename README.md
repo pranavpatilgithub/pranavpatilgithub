@@ -43,9 +43,4 @@ __Social Profiles__
 
 </br>
 
-<img src="https://visitcount.itsvg.in/api?id=pranavpatilgithub&icon=5&color=6"/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavpatilgithub&" alt="pranavpatilgithub" /></p>
-
-
 
