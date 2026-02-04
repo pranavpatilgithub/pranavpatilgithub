@@ -1,8 +1,8 @@
 
 ### Hi, my name is Pranav Patil
 ***
-
-* I am a software engineer. I am currently working on Mozaic-UI, a UI component-based library with modern styles. 
+Hey, I call myself a software engineer. But software engineer is itself a respected profession, I feel to claim it we all have to work hard and contribute to the industry and soceity. My only goal is to serve soceity for its wellbeing and future. Building productive and secure solutions is my taste in software development. 
+Currently I am heavily practicing artificial intelligence , machine learning , deep learning at COEP Mtech
 
 __Tech Stack__ 
 
