@@ -21,7 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -34,23 +34,6 @@
 
 </div>
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
 <div align="center">
-
-<!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile views"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
 </div>
