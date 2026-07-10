@@ -1,39 +1,72 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There,%20I'm%20Pranav%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things%20that%20(mostly)%20work&descAlignY=55&descSize=18" width="100%"/>
+```
+   _____
+  |  o  |    const engineer = {
+  | ___ |      name: "Your Name",
+  |/   \|      focus: "backend systems & clean APIs",
+   \___/       coffee: true,
+              };
+```
 
+# Hi, I'm Pranav Patil
 
-
-<br/>
-
-<!-- Social badges -->
-<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<div>
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+Software engineer building backend systems and the occasional over-engineered side project.
 
 </div>
+
+<br>
+
+### `whoami`
+
+```
+> 3+ years writing code that (mostly) does what it's supposed to
+> Currently working on distributed systems
+> Previously: what you did before, in one honest sentence
+> Based in Somewhere · Open to interesting problems
+```
+
+<br>
+
+### `stack.json`
+
+```json
+{
+  "languages":  ["TypeScript", "Python", "Go"],
+  "backend":    ["Node.js", "PostgreSQL", "Redis"],
+  "frontend":   ["React", "Next.js"],
+  "infra":      ["Docker", "AWS", "Terraform"],
+  "always_learning": true
+}
+```
+
+<br>
+<!--
+### `projects/`
+-->
+<!--
+| | |
+|---|---|
+| **[project-one](https://github.com/yourusername/project-one)** | one clear sentence — what it does, why it exists |
+| **[project-two](https://github.com/yourusername/project-two)** | one clear sentence — what it does, why it exists |
+| **[project-three](https://github.com/yourusername/project-three)** | one clear sentence — what it does, why it exists |
+-->
+<br>
+
+### `contact.sh`
+
+```bash
+$ echo $EMAIL
+you@example.com
+
+$ curl -s linkedin.com/in/yourhandle
+$ curl -s twitter.com/yourhandle
+```
+
+<br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+<sub>thanks for stopping by — feel free to open an issue, I actually read them</sub>
+
 </div>
