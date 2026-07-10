@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-   _____
-  |  o  |    const engineer = {
-  | ___ |      name: "Your Name",
-  |/   \|      focus: "backend systems & clean APIs",
-   \___/       coffee: true,
-              };
+  _______
+  |  o  |
+  | ___ |
+  |/   \|
+   \___/ 
+              
 ```
 
 # Hi, I'm Pranav Patil
